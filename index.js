@@ -284,7 +284,7 @@ function getHelpString() {
     let out = '**VOICE COMMANDS:**\n'
         out += '```'
         out += 'music help\n'
-        out += 'شغل [random, favorites, <genre> or query]\n'
+        out += 'music play [random, favorites, <genre> or query]\n'
         out += 'music skip\n'
         out += 'music pause/resume\n'
         out += 'music shuffle\n'
